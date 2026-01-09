@@ -1,7 +1,7 @@
-# XAVOS-EVAL: X-Ray Angiography Video Object Segmentation Evaluation
+# XAVOS-Eval: X-Ray Angiography Video Object Segmentation Evaluation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Task-VOS%20Evaluation-orange" alt="Task">
+  <img src="https://img.shields.io/badge/XAVOS Task-VOS%20Evaluation-orange" alt="Task">
   <img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
